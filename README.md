@@ -5,6 +5,7 @@
 ###### LinkedIn: https://www.linkedin.com/in/khalil-kefi-000a601a1/
 ###### Landing Page: https://kefikhalil.github.io/Portfolio-Landing-Page/
 ## Installation: www.download-Yeoui-apk.com
+## Final project blog article: https://www.linkedin.com/pulse/portfolio-project-khalil-kefi/?published=t
 ## Features:
 <br>
 <img height="700" src="https://i.ibb.co/GVDrrYL/gamemenu1.png" />
